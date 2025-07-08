@@ -15,7 +15,7 @@
 
 ## Home Page <br>
 
-<![home page](https://github.com/user-attachments/assets/27f574ba-9d6c-46b6-8f4b-22c2cd232d33) <br>
+![home page](https://github.com/user-attachments/assets/27f574ba-9d6c-46b6-8f4b-22c2cd232d33) <br>
  
 
 ## Product Section <br>
